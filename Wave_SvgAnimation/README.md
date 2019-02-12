@@ -1,6 +1,6 @@
 This are some svg code playings basing on https://www.youtube.com/watch?v=LKwXoaFwYFk
 
-Life view: https://stackblitz.com/edit/js-zkia7j
+Life view: https://stackblitz.com/edit/svg-animation-wave
 
 IMPORTANT NOTES FOR CREATING SVG WITH INKSCAPE:
 1. Inkscape (set before drawing shapes)
